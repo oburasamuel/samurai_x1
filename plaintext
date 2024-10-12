@@ -1,0 +1,20 @@
+ecommerce-frontend/
+    public/
+    src/
+        components/
+            ProductList.js
+            ProductCard.js
+            ProductDetails.js
+            Cart.js
+            Checkout.js
+        pages/
+            Home.js
+            Products.js
+            CartPage.js
+        graphql/
+            queries.js
+        App.js
+        index.js
+        styles/
+            main.scss
+    package.json
